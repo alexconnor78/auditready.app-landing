@@ -168,6 +168,13 @@ a.title {
     color: #fff;
     text-transform: capitalize;
 }
+.service-list{
+    font-size: 27px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-transform: capitalize;
+}
 
 .coming{
     font-size: 48px;
